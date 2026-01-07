@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! Eu sou o Átila estudante de Engenharia de Software.</h2>
 
-###
 
-<p align="left">Sou estudante de Engenharia de Software na Universidade Católica de Brasília (UCB), com formação técnica em Informática pela Escola Técnica de Ceilândia (ETC). Apaixonado por tecnologia, desenvolvimento de software e sempre em busca de novos conhecimentos e desafios na área de programação, cloud,IA,  desenvolvimento web e inovação.</p>
+<p align="left">I'm a software engineering student with an interest in working in back-end development or cloud computing.
+
+I have basic knowledge of Java and object-oriented programming (OOP), and I am currently studying Spring Boot. I also have experience with Git, HTML, CSS, and Sass.
+</p>
 
 ###
 
