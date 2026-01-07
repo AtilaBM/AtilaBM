@@ -1,4 +1,4 @@
-<h2 align="center">Hello I am Atila</h2>
+<h2 align="center">HELLO I AM ATILA</h2>
 
 <p align="left">I'm a software engineering student with an interest in working in back-end development or cloud computing.
 
