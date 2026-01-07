@@ -1,4 +1,4 @@
-
+<h2 align="center">Hello I am Atila</h2>
 
 <p align="left">I'm a software engineering student with an interest in working in back-end development or cloud computing.
 
@@ -21,7 +21,7 @@ I have basic knowledge of Java and object-oriented programming (OOP), and I am c
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:atilabmartins@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
